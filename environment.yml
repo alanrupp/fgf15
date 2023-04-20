@@ -1,0 +1,18 @@
+name: Fgf15
+channels:
+  - conda-forge
+  - bioconda
+  - r
+dependencies:
+  - r-dplyr
+  - r-ggplot2
+  - r-tidyr
+  - r-stringr
+  - r-readxl
+  - r-writexl
+  - bioconductor-deseq2
+  - r-ggrepel
+  - r-ggdendro
+  - r-patchwork
+  - bioconductor-clusterprofiler
+  - bioconductor-org.mm.eg.db

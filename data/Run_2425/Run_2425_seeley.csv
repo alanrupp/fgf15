@@ -1,0 +1,25 @@
+[Header],,,,,,,,,,
+IEMFileVersion,4,,,,,,,,,
+Investigator Name,seeley,,,,,,,,,
+Experiment Name,Run_2425,,,,,,,,,
+Date,25:05.9,,,,,,,,,
+Workflow,GenerateFASTQ,,,,,,,,,
+Application,HiSeq FASTQ Only,,,,,,,,,
+Assay,TruSeq LT,,,,,,,,,
+Description,Run_2425,,,,,,,,,
+Chemistry,Default,,,,,,,,,
+,,,,,,,,,,
+[Reads],,,,,,,,,,
+51,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+[Settings],,,,,,,,,,
+,,,,,,,,,,
+[Data],,,,,,,,,,
+Lane,Sample_ID,Sample_Name,Sample_Plate,Sample_Well,I7_Index_ID,index,index2,Sample_Project,Description,Sample_Type
+6,Sample_113433,113433_ATTACTCG,,,,ATTACTCG,,seeley,15LT469_GFP,RNA
+6,Sample_113434,113434_TCCGGAGA,,,,TCCGGAGA,,seeley,15LT469_Sup,RNA
+6,Sample_113435,113435_CGCTCATT,,,,CGCTCATT,,seeley,15LT467_GFP,RNA
+6,Sample_113436,113436_GAGATTCC,,,,GAGATTCC,,seeley,15LT467_Sup,RNA
+6,Sample_113437,113437_ATTCAGAA,,,,ATTCAGAA,,seeley,15LT462_GFP,RNA
+6,Sample_113438,113438_GAATTCGT,,,,GAATTCGT,,seeley,15LT462_Sup,RNA
